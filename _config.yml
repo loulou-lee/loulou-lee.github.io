@@ -11,22 +11,22 @@ relative_permalinks: true
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:				         site name
-title:               site title
-tagline:             'tagline'
+title:               lee's blog
+tagline:             'study note'
 description:         'description'
-url:                 site url
+url:                 https://loulou-lee.github.io
 rss:                 rss feed url
-baseurl:             '/'
+baseurl:             ''    #'https://loulou-lee.github.io/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+disqus:              loulou # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
+  name:           	 loulou
+  url:            	 https://loulou-lee.github.io
   facebook:          username
   twitter:           username
   google_plus:       username
