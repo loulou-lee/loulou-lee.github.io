@@ -1,16 +1,17 @@
 
 # Syntax highlighting
-markdown:            redcarpet
-highlighter:         pygments
+markdown:            kramdown
+highlighter:         rouge
 
 # Permalinks
-permalink:           /:title
-relative_permalinks: true
+# permalink:           /:title
+permalink:           pretty
+# relative_permalinks: true
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
+timezone:            Asia/Seoul # eg. Asia/Kathmandu
+locale:              kr # eg. en_us
+name:				         lee's blog
 title:               lee's blog
 tagline:             'study note'
 description:         'description'
